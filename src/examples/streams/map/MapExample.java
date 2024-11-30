@@ -1,4 +1,4 @@
-package streams.map;
+package examples.streams.map;
 
 import java.util.List;
 import java.util.stream.IntStream;

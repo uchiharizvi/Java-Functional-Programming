@@ -1,4 +1,4 @@
-package examples.functional_interface.bi_predicate;
+package examples.functional_interface.pre_defined.bi_predicate;
 
 import java.util.function.BiPredicate;
 

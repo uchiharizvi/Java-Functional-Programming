@@ -1,4 +1,4 @@
-package examples.functional_interface.supplier;
+package examples.functional_interface.pre_defined.supplier;
 
 import java.util.function.Supplier;
 

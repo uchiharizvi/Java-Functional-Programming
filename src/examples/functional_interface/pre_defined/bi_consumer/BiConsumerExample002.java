@@ -1,8 +1,7 @@
-package examples.functional_interface.bi_consumer;
+package examples.functional_interface.pre_defined.bi_consumer;
 
 import java.util.function.BiConsumer;
 import java.util.function.BiPredicate;
-import java.util.function.Consumer;
 import java.util.stream.Stream;
 
 /**

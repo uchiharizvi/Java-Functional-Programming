@@ -1,4 +1,4 @@
-package examples.functional_interface.bi_function;
+package examples.functional_interface.pre_defined.bi_function;
 
 import java.util.function.BiConsumer;
 import java.util.function.BiFunction;

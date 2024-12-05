@@ -1,4 +1,4 @@
-package examples.functional_interface.predicate;
+package examples.functional_interface.pre_defined.predicate;
 
 import java.util.List;
 import java.util.function.Predicate;

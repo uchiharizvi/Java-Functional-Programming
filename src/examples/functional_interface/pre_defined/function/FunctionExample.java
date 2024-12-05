@@ -1,4 +1,4 @@
-package examples.functional_interface.function;
+package examples.functional_interface.pre_defined.function;
 
 import java.util.List;
 import java.util.function.Consumer;
